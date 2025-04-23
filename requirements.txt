@@ -1,0 +1,11 @@
+python-dotenv==1.0.1
+pydantic==2.10.6
+langchain-community==0.3.18
+paddleocr==2.10.0
+paddlepaddle==3.0.0
+azure-ai-formrecognizer
+azure.ai.documentintelligence==1.0.0
+streamlit==1.43.2
+setuptools==79.0.0
+torch==2.6.0
+transformers==4.51.3
