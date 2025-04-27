@@ -9,3 +9,4 @@ streamlit==1.43.2
 setuptools==79.0.0
 torch==2.6.0
 transformers==4.51.3
+google-genai==1.11.0
